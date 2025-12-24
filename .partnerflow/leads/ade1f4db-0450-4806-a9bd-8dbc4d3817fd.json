@@ -5,7 +5,7 @@
   "painPoints": [],
   "levers": [],
   "managerRating": 7,
-  "lastInteractionDate": "2025-12-24T12:37:00.011Z",
+  "lastInteractionDate": "2025-12-24T12:44:04.065Z",
   "notes": "",
   "comments": [],
   "job": "Ра",
@@ -66,5 +66,7 @@
       ]
     },
     "suggestedNextStage": "Перевод в Telegram, отправка видео-инструкции по P2P и контроль первого депозита."
-  }
+  },
+  "location": "СПБ",
+  "cryptoExperience": "нулевой"
 }
