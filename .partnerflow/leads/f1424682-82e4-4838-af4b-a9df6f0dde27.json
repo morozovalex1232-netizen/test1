@@ -299,5 +299,16 @@
       "email": "",
       "telegram": ""
     }
-  }
+  },
+  "tasks": [
+    {
+      "id": "task_user_1766770996311",
+      "text": "набрать",
+      "date": "2025-12-26",
+      "time": "19:44",
+      "status": "pending",
+      "source": "user",
+      "createdAt": "2025-12-26T17:43:16.311Z"
+    }
+  ]
 }
