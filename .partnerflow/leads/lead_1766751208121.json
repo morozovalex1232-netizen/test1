@@ -18,5 +18,13 @@
     }
   },
   "analysisHistory": [],
-  "overallSummary": "Новый лид добавлен вручную."
+  "overallSummary": "Новый лид добавлен вручную.",
+  "topups": [
+    {
+      "id": "99d2b229-2677-4bd5-8dd3-1be8500069f8",
+      "amount": 101,
+      "purpose": "депозит",
+      "date": "2025-11-24T00:00:00.000Z"
+    }
+  ]
 }
