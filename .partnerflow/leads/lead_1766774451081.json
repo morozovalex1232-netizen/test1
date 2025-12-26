@@ -10,5 +10,16 @@
     "email": ""
   },
   "analysisHistory": [],
-  "overallSummary": "Новый лид добавлен вручную."
+  "overallSummary": "Новый лид добавлен вручную.",
+  "tasks": [
+    {
+      "id": "task_user_1766774470020",
+      "text": "Вытянуть на разговор",
+      "date": "2025-12-26",
+      "time": "12:00",
+      "status": "pending",
+      "source": "user",
+      "createdAt": "2025-12-26T18:41:10.020Z"
+    }
+  ]
 }
