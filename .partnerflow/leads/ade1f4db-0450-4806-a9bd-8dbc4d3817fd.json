@@ -422,5 +422,13 @@
       "cryptoExperience": "",
       "capital": ""
     }
-  }
+  },
+  "topups": [
+    {
+      "id": "452fe62a-ddcc-4d2e-a11b-8424eefbe61e",
+      "amount": 110,
+      "purpose": "депозит",
+      "date": "2025-12-20T00:00:00.000Z"
+    }
+  ]
 }
