@@ -1,13 +1,21 @@
 {
   "id": "lead_1766751208121",
   "name": "Фарес Виктория Михайловна",
-  "stage": "Депозит",
+  "stage": "Слился",
   "lastInteractionDate": "2025-12-26T12:13:28.121Z",
-  "createdAt": "2025-12-26T12:13:28.121Z",
+  "createdAt": "2025-12-26T12:00:00.000Z",
   "data": {
     "telegram": "@vikfares",
     "phone": "",
-    "email": "santagraciola1551@tutanota.com"
+    "email": "santagraciola1551@tutanota.com",
+    "kyc": {
+      "job": "",
+      "income": "",
+      "location": "",
+      "goals": "",
+      "cryptoExperience": "",
+      "capital": ""
+    }
   },
   "analysisHistory": [],
   "overallSummary": "Новый лид добавлен вручную."
