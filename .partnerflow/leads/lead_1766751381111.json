@@ -10,5 +10,13 @@
     "email": "iurium01@gmail.com"
   },
   "analysisHistory": [],
-  "overallSummary": "Новый лид добавлен вручную."
+  "overallSummary": "Новый лид добавлен вручную.",
+  "topups": [
+    {
+      "id": "0f726486-c1b9-4455-9c6e-beacbdd410c8",
+      "amount": 201,
+      "purpose": "самодолив",
+      "date": "2025-11-25T00:00:00.000Z"
+    }
+  ]
 }
