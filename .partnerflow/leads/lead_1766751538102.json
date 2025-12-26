@@ -10,5 +10,13 @@
     "email": "invweb@gmail.com"
   },
   "analysisHistory": [],
-  "overallSummary": "Новый лид добавлен вручную."
+  "overallSummary": "Новый лид добавлен вручную.",
+  "topups": [
+    {
+      "id": "ace43172-3cdb-4c97-a0d6-9f3160812183",
+      "amount": 300,
+      "purpose": "Черная(Экзист.деп)",
+      "date": "2025-12-10T00:00:00.000Z"
+    }
+  ]
 }
