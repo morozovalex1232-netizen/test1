@@ -10,5 +10,16 @@
     "email": ""
   },
   "analysisHistory": [],
-  "overallSummary": "Новый лид добавлен вручную."
+  "overallSummary": "Новый лид добавлен вручную.",
+  "tasks": [
+    {
+      "id": "task_man_1768240237808",
+      "text": "Набрать",
+      "date": "2026-01-13",
+      "time": "12:00",
+      "status": "pending",
+      "source": "user",
+      "createdAt": "2026-01-12T17:50:37.808Z"
+    }
+  ]
 }
