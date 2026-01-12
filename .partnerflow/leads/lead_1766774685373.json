@@ -1,13 +1,21 @@
 {
   "id": "lead_1766774685373",
   "name": "Aaa(Абу) 19.12(void)",
-  "stage": "Квалификация",
+  "stage": "Слился",
   "lastInteractionDate": "2025-12-26T18:44:45.373Z",
   "createdAt": "2025-12-26T18:44:45.373Z",
   "data": {
     "telegram": "@layv_news",
     "phone": "",
-    "email": ""
+    "email": "",
+    "kyc": {
+      "job": "",
+      "income": "",
+      "location": "",
+      "goals": "",
+      "cryptoExperience": "",
+      "capital": ""
+    }
   },
   "analysisHistory": [],
   "overallSummary": "Новый лид добавлен вручную.",
